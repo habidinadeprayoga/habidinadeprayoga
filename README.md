@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habidinadeprayoga
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C# ASP.NET
+- 🌱 I’m currently working in C# ASP.NET
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
